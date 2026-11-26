@@ -1,0 +1,4 @@
+*.m3u8 -text
+*.json -text
+*.ts binary
+*.jpg binary
